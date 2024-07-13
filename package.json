@@ -4,6 +4,10 @@
   "description": "A purple accented twist on the VS Default Dark Modern Theme. Let me know about any bugs and issues you come across since this the first theme I have made.",
   "version": "0.0.1",
   "publisher": "Kushman257",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kushman257/VSCode-Theme-Tyrian-Purple.git"
+  },
   "engines": {
     "vscode": "^1.91.0"
   },
