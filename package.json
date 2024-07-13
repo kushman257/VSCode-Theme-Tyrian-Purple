@@ -1,8 +1,9 @@
 {
   "name": "tyrian-purple",
   "displayName": "Tyrian Purple",
-  "description": "VSCode Purple Theme",
+  "description": "A purple accented twist on the VS Default Dark Modern Theme. Let me know about any bugs and issues you come across since this the first theme I have made.",
   "version": "0.0.1",
+  "publisher": "Kushman257",
   "engines": {
     "vscode": "^1.91.0"
   },
