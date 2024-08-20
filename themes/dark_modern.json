@@ -2,16 +2,6 @@
 	"$schema": "vscode://schemas/color-theme",
 	"name": "Default Dark Modern",
 	"colors": {
-		"chat.slashCommandBackground": "#34414B",
-		"chat.slashCommandForeground": "#40A6FF",
-		"debugToolBar.background": "#181818",
-	
-		"editorGroup.border": "#FFFFFF17",
-		"editorGroupHeader.tabsBackground": "#181818",
-		"editorGroupHeader.tabsBorder": "#2B2B2B",
-		"editorGutter.addedBackground": "#2EA043",
-		"editorGutter.deletedBackground": "#F85149",
-		"editorGutter.modifiedBackground": "#0078D4",
 		"editorLineNumber.activeForeground": "#CCCCCC",
 		"editorLineNumber.foreground": "#6E7681",
 		"editorOverviewRuler.border": "#010409",
