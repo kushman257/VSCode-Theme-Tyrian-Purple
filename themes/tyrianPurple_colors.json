@@ -1,7 +1,7 @@
 {
 	"name": "Tyrian Purple",
 	"colors": {
-		
+
 		"focusBorder": "#b46ae2d5",
 		"foreground": "#CCCCCC",	
 		"disabledForeground": "#333333",
@@ -28,8 +28,11 @@
 		"titleBar.inactiveForeground": "#9D9D9D",
 
 
-		"menu.selectionBackground": "#8D44BB",
+		"menu.foreground": "#CCCCCC",
 		"menu.background": "#1F1F1F",
+		"menu.selectionBackground": "#8D44BB",
+		"menu.separatorBackground": "#454545",
+		"menu.border": "#454545",
 
 
 		"notificationCenterHeader.foreground": "#CCCCCC",
@@ -47,7 +50,7 @@
 		"button.secondaryBackground": "#313131",
 		"button.secondaryHoverBackground": "#3C3C3C",
 		"checkbox.background": "#313131",
-		"checkbox.border": "#3C3C3C",
+		"checkbox.border": "#6B6B6B",
 
 
 		"dropdown.background": "#313131",
@@ -72,6 +75,7 @@
 
 
 		"list.activeSelectionBackground": "#8d44bb85",
+		"list.dropBackground": "#383B3D",
 
 		
 		"activityBar.activeBorder": "#b36ae2",
@@ -114,6 +118,10 @@
 		"editor.foreground": "#CCCCCC",
 		"editorLineNumber.foreground": "#6E7681",
 		"editorLineNumber.activeForeground": "#CCCCCC",
+		"editor.inactiveSelectionBackground": "#3A3D41",
+		"editor.selectionHighlightBackground": "#ADD6FF26",
+		"editorIndentGuide.activeBackground1": "#707070",
+		"editorIndentGuide.background1": "#404040",
 		"editorOverviewRuler.border": "#010409",
 		"editorGutter.modifiedBackground": "#8d44bb",
 		"editorGutter.addedBackground": "#008585",
@@ -174,8 +182,9 @@
 		"settings.modifiedItemIndicator": "#BB800966",
 		"settings.dropdownBackground": "#313131",
 		"settings.dropdownBorder": "#3C3C3C",
+
+		"ports.iconRunningProcessForeground": "#369432"
 	},
-	
 	"tokenColors": [
 		{
 			"name": "Function declarations",
@@ -184,7 +193,7 @@
 				"support.function",
 				"support.constant.handlebars",
 				"source.powershell variable.other.member",
-				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
+				"entity.name.operator.custom-literal"
 			],
 			"settings": {
 				"foreground": "#DCDCAA"
@@ -266,7 +275,7 @@
 				"meta.definition.variable.name",
 				"support.variable",
 				"entity.name.variable",
-				"constant.other.placeholder", // placeholders in strings
+				"constant.other.placeholder"
 			],
 			"settings": {
 				"foreground": "#9CDCFE"
@@ -279,7 +288,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#4FC1FF",
+				"foreground": "#4FC1FF"
 			}
 		},
 		{
@@ -368,7 +377,7 @@
 				"foreground": "#C8C8C8"
 			}
 		},
-		{
+        {
 			"scope": [
 				"meta.embedded",
 				"source.groovy.embedded",
@@ -737,11 +746,11 @@
 			}
 		}
 	],
-	"semanticHighlighting": true,
+    "semanticHighlighting": true,
 	"semanticTokenColors": {
-		"newOperator": "#d4d4d4",
-		"stringLiteral": "#ce9178",
-		"customLiteral": "#D4D4D4",
-		"numberLiteral": "#b5cea8",
+		"newOperator":"#C586C0",
+		"stringLiteral":"#ce9178",
+		"customLiteral": "#DCDCAA",
+		"numberLiteral": "#b5cea8"
 	}
 }

@@ -19,7 +19,7 @@
       {
         "label": "Tyrian Purple",
         "uiTheme": "vs-dark",
-        "path": "./themes/Tyrian Purple-color-theme.json"
+        "path": "./themes/tyrianPurple_colors.json"
       }
     ]
   }
