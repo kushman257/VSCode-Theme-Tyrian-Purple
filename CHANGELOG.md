@@ -4,6 +4,11 @@ All notable changes to the "tyrian-purple" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+### 1.1.0
+- Created the README
 
+### 1.0.0  
+- Redid the entire theme to match VS Modern Dark
+
+### 0.0.1
 - Initial release

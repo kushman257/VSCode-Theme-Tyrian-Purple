@@ -1,16 +1,24 @@
-# tyrian-purple README
+# Tyrian Purple
 
-## Working with Markdown
+## About
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Just add purple accents to popular themes.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Install 
 
-## For more information
+1. Open [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Kushman257.tyrian-purple)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+2. Search for 'Tyrian Purple'. The publisher name should be 'Kushman257'.
+
+3. Click the 'install' button.
+
+4. Pick one of the following themes:
+    - Tyrian Modern Dark 
+
+
+### Planned Updates
+- Add VS Modern Light
+- Add some github themes in purple
+- Add images to readme
 
 **Enjoy!**
